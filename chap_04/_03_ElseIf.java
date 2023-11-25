@@ -41,7 +41,7 @@ public class _03_ElseIf {
         // else 는 없어도 가능
         hallabongAde = false;
         mangoJuice = false;
-        orangeJuice = false; // 오렌지 주스
+        orangeJuice = true; // 오렌지 주스
 
         if (hallabongAde) {
             System.out.println("한라봉 에이드 + 1");
